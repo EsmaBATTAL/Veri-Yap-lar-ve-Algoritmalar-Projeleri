@@ -1,6 +1,7 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
-Insertion sort sıralamayı baştan başlayarak ilk elemanı ikinci eleman ile karşılaştırır eğer ikinci eleman ilk elemandan küçük ise onları yer değiştirir. Sonra ikinci elemana geçer onu da üçüncü eleman ve birinci eleman ile karşılaştırır sıralamadaki yerine yerleştirir.Bu son elemana kadar devam eder.
+Insertion sort sıralamayı baştan başlayarak ilk elemanı ikinci eleman ile karşılaştırır eğer ikinci eleman ilk elemandan küçük ise onları yer değiştirir. 
+Sonra ikinci elemana geçer onu da üçüncü eleman ve birinci eleman ile karşılaştırır sıralamadaki yerine yerleştirir.Bu son elemana kadar devam eder.
 
 1-[22,27,16,2,18,6]
 2-[16,22,27,2,18,6]
@@ -14,7 +15,8 @@ Time Complexity: Average case: Aradığımız sayının ortada olması
 
 [7,3,5,8,2,9,4,15,6] -> Selection Sort ilk dört aşaması
 
-Selection sort sıralamayı dizideki en küçük elemanı bulup onu ilk sıraya yerleştirip diğer elemanı ise en küçük elemanın eski yerine yerleştirerek başlar ve sıra ile diğer elemaları gezerek bir sonraki eleman ile yer değiştirerek devam eder.
+Selection sort sıralamayı dizideki en küçük elemanı bulup onu ilk sıraya yerleştirip diğer elemanı ise en küçük elemanın eski yerine yerleştirerek başlar ve 
+sıra ile diğer elemaları gezerek bir sonraki eleman ile yer değiştirerek devam eder.
 
 1-[2,3,5,8,7,9,4,15,6]
 2-[2,3,5,8,7,9,4,15,6]
